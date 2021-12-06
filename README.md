@@ -1,3 +1,5 @@
+程序是用TKinterDesigner开发的，一个亲戚有这个需要
+https://github.com/honghaier-game/TKinterDesigner
 # randomSelect
 在txt文件里面把公司都列进去，每个公司一行，然后点击exe文件选择改好的txt文件就行
 
